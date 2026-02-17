@@ -1,5 +1,5 @@
 .container {
-  box-sizing: border-box;
+  box-sizing: border-box; /*width e height de um elemento incluem o conteúdo*/
   max-width: 1200px;
   padding-left: 20px;
   padding-right: 20px;
